@@ -22,3 +22,11 @@ To start the server run
 ```
 yarn start
 ```
+
+## Test
+
+To run tests
+
+```
+yarn test
+```
