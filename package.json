@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "a basic bot to talk in discord",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsatgit/discord-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsatgit/discord-bot/issues"
+  },
+  "homepage": "https://github.com/jsatgit/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
